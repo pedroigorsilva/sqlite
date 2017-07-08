@@ -1,0 +1,12 @@
+{
+    "name": "pedro/sqllite",
+    "description": "Cria a conexao com o banco de dados sqlite3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Igor",
+            "email": "pedrosilvaigor@gmail.com"
+        }
+    ],
+    "require": {}
+}
