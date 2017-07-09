@@ -1,6 +1,6 @@
 <?php
 
-namespace Pedro\Conexao;
+namespace Pedro\Sqlite;
 
 class ConexaoSqlite extends PDO
 {

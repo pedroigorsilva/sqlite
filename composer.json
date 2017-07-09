@@ -1,5 +1,5 @@
 {
-    "name": "pedro/sqllite",
+    "name": "pedro/sqlite",
     "description": "Cria a conexao com o banco de dados sqlite3",
     "license": "MIT",
     "authors": [
